@@ -1,4 +1,4 @@
-# Hand Posture Recignition
+# Hand Posture Recognition
 
 This project implements different ML models to recognize hand postures from the given data (described below). 5 models are trained:
 1. Naive Bayes classifier
